@@ -1,0 +1,29 @@
+body {
+  background-color: #393E46;
+}
+
+.container {
+  text-align: center;
+}
+
+.dice-container {
+  display: inline-block;
+}
+
+.dice-heading {
+  font-family: 'Lobster', cursive;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+.players {
+  font-family: 'Indie Flower', cursive;
+  font-size: 3rem;
+  color: #4ECCA3;
+  margin: 0;
+}
+
+.dice-image-player2, .dice-image-player1 {
+  width: 150px;
+  padding: 2rem;
+}
